@@ -22,7 +22,7 @@ import java.sql.Statement;
 public class DeleteRecords {
 
     /**
-     * Assignment: In the problem1.sql, write the SQL command to delete 'Steve' from the site_user table, assuming
+     * Assignment: In the problem1.sql, write the SQL command to delete 'Steve' from the site_user  table, assuming
      * that the table and 'Steve' records already exist.
      *
      *        site_user table:
